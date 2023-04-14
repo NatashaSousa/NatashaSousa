@@ -8,7 +8,8 @@
   <img align="center" alt="Nat-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nat-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nat-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="right" alt="Nat-pic" src="https://user-images.githubusercontent.com/85360987/232168276-9fd5b200-7731-411b-8086-39898f0b187a.gif">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
+   src="https://user-images.githubusercontent.com/85360987/232168276-9fd5b200-7731-411b-8086-39898f0b187a.gif">
 </div>
 
 </div>
