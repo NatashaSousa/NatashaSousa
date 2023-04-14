@@ -7,9 +7,11 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img src="Picrewの「AmphyPop Doll Maker」でつくったよ！ https://picrew.me/share?cd=Z7Dfp5gfAb #Picrew #AmphyPop_Doll_Maker">
- 
   
+  <img src="![Fotor_AI (2)](https://user-images.githubusercontent.com/85360987/232163966-868b27f4-5b9f-4ed5-a5be-fd8cee4705dc.png)
+">
+</div>
+ 
   
   ##
  
