@@ -8,7 +8,6 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="(https://user-images.githubusercontent.com/85360987/232164323-5056a222-d55e-47d2-aa0b-6734952af1fb.png)">
 </div>
 
 </div>
