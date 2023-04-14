@@ -14,8 +14,6 @@
 </div>
  
   
-  ##
- ![Fotor_AI (2)](https://user-images.githubusercontent.com/85360987/232164323-5056a222-d55e-47d2-aa0b-6734952af1fb.png)
 
 <div> 
   
