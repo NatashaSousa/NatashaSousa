@@ -9,8 +9,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="![Fotor_AI (2)](https://user-images.githubusercontent.com/85360987/232160119-36bb274e-fc7a-4e58-ba07-a0ce0cfd7c4a.png)">
-</div>
+  
   
   ##
  
