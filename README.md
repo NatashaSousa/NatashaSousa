@@ -8,7 +8,7 @@
   <img align="center" alt="Nat-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nat-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nat-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="right" alt="Nat-pic" height="150" src="https://discord.com/channels/701565732349280276/701565732349280279/1096568882002665614">
+  <img align="right" alt="Nat-pic" src="https://discord.com/channels/701565732349280276/701565732349280279/1096568882002665614">
 </div>
 
 </div>
