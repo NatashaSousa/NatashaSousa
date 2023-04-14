@@ -7,9 +7,9 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-  <img src="![Fotor_AI (2)](https://user-images.githubusercontent.com/85360987/232163966-868b27f4-5b9f-4ed5-a5be-fd8cee4705dc.png)
-">
+ <img align="right" alt="Nat-pic" height="150" style="border-radius:50px;" src=">![Fotor_AI (2)](https://user-images.githubusercontent.com/85360987/232164159-00474343-14f1-47e7-b58b-69276c5985a7.png)">
+</div>
+
 </div>
  
   
