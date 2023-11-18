@@ -1,4 +1,4 @@
-## Oiii eu sou a Natasha Sousa e sou Desenvolvedora Front-end! ❤
+## Oiii eu sou a Natasha Sousa e sou Desenvolvedora Back-end! ❤
 
 
 
