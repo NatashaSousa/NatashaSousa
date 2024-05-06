@@ -27,5 +27,5 @@
   
 </div>
 
-![NatashaSousa githhub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![NatashaSousa githhub stats](https://github-readme-stats.vercel.app/api?username=NatashaSousa&show_icons=true&theme=radical)
 
