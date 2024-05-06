@@ -13,8 +13,6 @@
 </div>
 </div>
 
-![NatashaSousa](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
 
 </div>
  
@@ -28,3 +26,6 @@
   <a href="https://www.linkedin.com/in/natasha-sousa-53a0bb201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+![NatashaSousa githhub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
