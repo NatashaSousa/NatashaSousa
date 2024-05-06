@@ -25,6 +25,6 @@
   
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=neon_icons=true)
+![Natasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natasha&theme=neon_icons=true)
 
        
